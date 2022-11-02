@@ -1,0 +1,9 @@
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0;
+  margin-right: 0;
+  width: 280px;
+  color: #000000;
+}
